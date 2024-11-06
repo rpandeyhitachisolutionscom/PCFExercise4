@@ -1,0 +1,75 @@
+.buttond{
+    cursor: pointer;
+    color: white;
+    background-color: rgb(136, 23, 152);
+    border-radius: 8px;
+    height: 31px;
+}
+
+.w-240{
+    width:240px;
+}
+
+.fright{
+    float: right;
+}
+
+.mt-86{
+margin-top: 86px;
+}
+.main-container{
+
+}
+
+.cut-icon{
+    cursor: pointer;
+    font-size: 24px;
+    color: red;
+    /* float: right; */
+    /* margin-top: -52px */
+    font-weight: 600;
+}
+
+.paginated-top{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-top: 20px;
+    float: right;
+}
+.confirm{
+    display: flex;
+    float: right;
+    /* margin-top: 36px; */
+    gap: 30px;
+}
+
+.confirmbutton{
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 600;
+    color:rgb(136, 23, 152) ;
+}
+.textq{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.header_text{
+    display: flex;
+    justify-content: space-between;
+    /* margin-bottom: 29px; */
+ 
+}
+.instruction{
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.dflex-column{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap :10px;
+}
